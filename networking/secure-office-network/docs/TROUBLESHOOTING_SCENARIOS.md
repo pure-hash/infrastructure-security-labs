@@ -134,5 +134,3 @@ For each completed scenario, include:
 - Exact repair
 - Successful retest
 - One prevention or monitoring recommendation
-
-The troubleshooting narrative is often more valuable to an employer than another screenshot of a successful ping.
