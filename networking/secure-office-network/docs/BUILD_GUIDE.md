@@ -189,7 +189,7 @@ Use **Capture/Forward** to advance one event at a time and open the PDU details 
 Save the completed file as:
 
 ```text
-packet-tracer/evan-office-network.pkt
+packet-tracer/your-lab-example.pkt
 ```
 
 Then complete the validation table in the main README, add screenshots, and record at least two troubleshooting scenarios in your own words.
